@@ -16,11 +16,11 @@
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 
-- 🔭 I’m currently working on My Web development, Github Project,Collage Study
+- 🖥⌨️ I’m currently working on My Web development, Github Projects,Collage Study
 
-- 🌱 I’m currently learning Web development,Front end frameworks,Back end frameworks. 
+- 💻💻 I’m currently learning Web development,Front end frameworks,Back end frameworks. 
 
-- 👯 I’m looking to collaborate on Projects 
+- 👩‍💻👨‍💻 I’m looking to collaborate on Projects 
 
 - 💬 Talk to me about Python, JavaScript, Freelancing Opportunites, Open Source 
 
