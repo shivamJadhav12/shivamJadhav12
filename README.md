@@ -18,7 +18,7 @@
 
 - 🔭 I’m currently working on My Blog, Github Project,Collage Study
 
-- 🌱 I’m currently learning Data Science,AWS,Data Engineering,Python,Ai 
+- 🌱 I’m currently learning Web development,Front end frameworks,Back end frameworks. 
 
 - 👯 I’m looking to collaborate on Projects,Tech Articles 
 
